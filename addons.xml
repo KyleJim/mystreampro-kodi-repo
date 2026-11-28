@@ -16,7 +16,7 @@
     <platform>all</platform>
     <license>MIT</license>
   </extension>
-</addon><addon id="plugin.video.mystreampro" name="MyStreamPro" version="1.0.4" provider-name="MSP">
+</addon><addon id="plugin.video.mystreampro" name="MyStreamPro" version="1.0.5" provider-name="MSP">
   <requires><import addon="xbmc.python" version="3.0.0" /></requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
